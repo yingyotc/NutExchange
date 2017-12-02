@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Nut Exchange</string>
+    <string name="change_money">แลกเปลี่ยนเงิน เงินตรา</string>
+
+    <string name="usd">กรอกจำนวนเงิน ดอลล่าร์</string>
+    <string name="thb">กรอกจำนวนเงิน ไทย</string>
 </resources>
