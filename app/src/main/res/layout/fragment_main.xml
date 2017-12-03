@@ -42,7 +42,6 @@
 
             <!--usd to thb-->
             <RadioButton
-                android:checked="true"
                 android:textSize="@dimen/h2"
                 android:textStyle="italic|bold"
                 android:textColor="@color/colorPrimaryDark"
